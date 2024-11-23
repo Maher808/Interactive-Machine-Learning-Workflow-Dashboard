@@ -61,13 +61,5 @@ The Interactive Machine Learning Workflow Dashboard is a user-friendly and featu
 - **LIME**: For local interpretability of individual predictions.
 - **Pyngrok**: For public deployment of the dashboard.
 
----
 
-## How to Run
 
-### Prerequisites
-1. Ensure Python 3.8 or above is installed.
-2. Install the required libraries from `requirements.txt`.
-
-```bash
-pip install -r requirements.txt
